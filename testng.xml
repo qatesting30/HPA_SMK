@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HealthEC PHR PRO Suite">
+ <listeners>
+    <listener class-name="com.healthec.generic.TestBaseClass"></listener>
+     <listener class-name="com.healthec.generic.Priority"></listener>
+ </listeners>
+
+    <test name="LoginPageTest" preserve-order="true">
+
+        <groups>
+            <run>
+                <include name="functional"/>
+            </run>
+        </groups>
+
+
+        <classes >
+
+            <class name="com.healthec.generic.TestBaseClass"/>
+            <class name="com.healthec.test.LoginPageUC"/>
+            <class name="com.healthec.test.DashboardPageUC"/>
+
+
+        </classes>
+    </test>  
+  <!-- <test name="DashboardPageTest">
+    <classes>
+      <class name="com.healthec.test.functional.DashboardPageUC"/>
+      <class name="com.healthec.generic.utils.TestBaseClass"/>
+    </classes>
+  </test>-->
+  <!--<test name = "ProfilePageTest">
+      <classes>
+          <class name="com.healthec.test.functional.ProfilePageUC"/>
+        </classes> 
+  </test>-->
+   <!-- <test name = "HealthTrackerTest">
+      <classes>
+          <class name="com.healthec.test.functional.HealthTrackerUC"/>
+        </classes>
+  </test>-->
+   <!-- <test name="StopServer">
+        <classes>
+            <class name="com.healthec.generic.utils.AppiumStopServer"/>
+        </classes>
+    </test>-->
+
+</suite> 
