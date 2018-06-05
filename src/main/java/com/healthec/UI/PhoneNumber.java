@@ -11,7 +11,7 @@ import org.testng.Assert;
 
 import java.util.concurrent.TimeUnit;
 
-import static com.healthec.generic.TestBaseClass.testdataExcel;
+import static com.healthec.generic.TestBaseClass.testdataSheet;
 
 public class PhoneNumber {
 
@@ -55,7 +55,6 @@ public class PhoneNumber {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         SwitchView.changeContext(driver,"NATIVE_APP");
         TestBaseClass.testcaseInit();
-        testdataSheet = testdataExcel;
         String phoneNumberInSheet = ExcelUtility.readTestdata(testdataSheet, "ProfilePage-Physicians", 1, 2);
         System.out.println("phone number: "+phoneNumberInSheet);
         WebElement digit = driver.findElement(By.xpath("////XCUIElementTypeStaticText[contains(@name,'+phoneNumberInSheet+')]"));

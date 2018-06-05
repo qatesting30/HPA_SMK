@@ -5,24 +5,23 @@ import com.healthec.UI.SwitchView;
 import com.healthec.generic.*;
 import com.healthec.objectRepo.DashboardPageObjects;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 import java.util.concurrent.TimeUnit;
+import static com.healthec.test.LoginPageUC.driver;
+import static com.healthec.generic.TestBaseClass.testClassName;
+import static com.healthec.generic.TestBaseClass.testMethodName;
+import static com.healthec.generic.TestBaseClass.testCaseSheet;
+import static com.healthec.generic.TestBaseClass.testdataSheet;
 
 public class DashboardPageUC extends TestBaseClass {
 	
-	public static RemoteWebDriver driver;
+
 	public static WebDriverWait wait;
 	public static DashboardPageObjects dps;
-	public static ExcelData testcaseSheet = null;
-	public static ExcelData testdataSheet = null;
-	public static String testClassName=null;
-	public static String testMethodName=null;
 	public static Logger log = Logger.getLogger("devpinoyLogger");
 	
 	@BeforeClass(alwaysRun = true)
@@ -36,11 +35,8 @@ public class DashboardPageUC extends TestBaseClass {
 	@BeforeTest(alwaysRun = true)
 	public static void beforeDashboardPageTest()
 	{
-        System.out.println("test");
-        driver = LoginPageUC.driver;
+        //System.out.println("test");
         dps = new DashboardPageObjects(driver);
-        testDataInit();
-        testdataSheet=testdataExcel;
 	}
 	//mood validation
 	@Test(enabled=true,groups = {"smoke"})
@@ -136,7 +132,7 @@ public class DashboardPageUC extends TestBaseClass {
             System.out.println("Week range displaying is: " + (start_date.trim()) + " and " + end_date.trim());
         }catch(Exception e)
         {
-            ExcelUtility.writeStatus(testcaseSheet, testClassName, testMethodName, "Actual_Output", "Element not present ");
+            ExcelUtility.writeStatus(testCaseSheet, testClassName, testMethodName, "Actual_Output", "Element not present ");
         }
 	
 	}
@@ -229,7 +225,7 @@ public class DashboardPageUC extends TestBaseClass {
             wait.until(ExpectedConditions.invisibilityOf(dps.healthTopic_spinner));
         }catch(Exception e){
             System.out.println("Exception in getting spinner: "+e.getMessage());
-            ExcelUtility.writeStatus(testcaseSheet, testClassName, testMethodName, "Actual_Output", "Element not present ");
+            ExcelUtility.writeStatus(testCaseSheet, testClassName, testMethodName, "Actual_Output", "Element not present ");
         }
         SwitchView.changeContext(driver,"WEBVIEW");
 		//wait.until(ExpectedConditions.visibilityOf(dps.healthTopic_page)).isDisplayed();

@@ -1,13 +1,10 @@
 package com.healthec.test;
 
 import com.healthec.UI.BackButton;
-
 import com.healthec.UI.HideKeyBoard;
 import com.healthec.UI.SwitchView;
-import com.healthec.generic.ExcelData;
 import com.healthec.generic.ExcelUtility;
 import com.healthec.generic.FieldValidation;
-import com.healthec.generic.TestBaseClass;
 import com.healthec.objectRepo.LoginPageObjects;
 import com.healthec.projectSpec.CreateDriver;
 import org.apache.log4j.Logger;
@@ -15,46 +12,38 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.ITestContext;
+import org.testng.annotations.*;
+import static com.healthec.generic.TestBaseClass.testClassName;
+import static com.healthec.generic.TestBaseClass.testMethodName;
+import static com.healthec.generic.TestBaseClass.testdataSheet;
 import java.util.concurrent.TimeUnit;
 
 
-public class LoginPageUC extends TestBaseClass{
+public class LoginPageUC {
 
 	public static RemoteWebDriver driver;
 	public static WebDriverWait wait;
 	public static LoginPageObjects lps ;
-	public static ExcelData testcaseSheet = null;
-	public static ExcelData testdataSheet = null;
-	public static String testClassName=null;
-    public static String testMethodName=null;
-    public static Logger log = Logger.getLogger("devpinoyLogger");
+	public static Logger log = Logger.getLogger("devpinoyLogger");
 
 	
 	@BeforeClass(alwaysRun = true)
 	public static void beforeloginPageClass()
 	{
-	    testDataInit();
-        testdataSheet=testdataExcel;
 	    driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		wait=(WebDriverWait)new WebDriverWait(driver, 30);
 	}
 	@BeforeTest(alwaysRun = true)
-	public static void beforeloginPageTest()
-	{
-		driver= CreateDriver.getDriver();
-        lps=new LoginPageObjects(driver);
-		SwitchView.changeContext(driver, "WEBVIEW");
-	}//contact us link
+	public static void beforeloginPageTest(ITestContext ctx) {
 
+        driver = CreateDriver.getDriver();
+        lps = new LoginPageObjects(driver);
+        SwitchView.changeContext(driver, "WEBVIEW");
+	}// /contact us link
     @Test(enabled=true,groups = {"smoke"} )
     public static void Loginpage_TC_001() throws Exception
 	{
-	    testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on contact us link");
         FieldValidation.textFieldValidation(driver,lps.contact_us_link,testClassName,testMethodName).click();
         Thread.sleep(3000);
@@ -107,8 +96,6 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void Loginpage_TC_002() throws Exception
 	{
-        testClassName = className;
-        testMethodName =  methodName;
 	    log.info("Clicking on privacy policy link");
         FieldValidation.textFieldValidation(driver,lps.privacy_policy_link,testClassName,testMethodName).click();
        // wait.until(ExpectedConditions.visibilityOf(lps.privacu_policy_link_page_validation)).isDisplayed();
@@ -120,8 +107,6 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void Loginpage_TC_003() throws Exception
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on terms of us link");
         FieldValidation.textFieldValidation(driver,lps.terms_of_use_link,testClassName,testMethodName).click();
        // wait.until(ExpectedConditions.visibilityOf(lps.terms_of_use_link_page_validation)).isDisplayed();
@@ -135,8 +120,6 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void Loginpage_TC_004() throws Exception
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on sign up link");
         FieldValidation.textFieldValidation(driver,lps.signUp_link,testClassName,testMethodName).click();
         Thread.sleep(2000);
@@ -147,8 +130,6 @@ public class LoginPageUC extends TestBaseClass{
     @Test(enabled=true,groups = {"smoke"})
     public static void Loginpage_TC_005() throws InterruptedException {
 
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on forgot password link");
         FieldValidation.textFieldValidation(driver,lps.forgotPassword_link,testClassName,testMethodName).click();
         Thread.sleep(2000);
@@ -160,8 +141,6 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void Loginpage_TC_006()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on login button");
         FieldValidation.textFieldValidation(driver,lps.login_btn,testClassName,testMethodName).click();
         log.info("Validating username related error message");
@@ -174,8 +153,6 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void Loginpage_TC_007()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Entering password value");
         FieldValidation.textFieldValidation(driver,lps.login_btn,testClassName,testMethodName).click();
         log.info("Validating password related error message");
@@ -195,8 +172,6 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void Loginpage_TC_008()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Entering username");
         FieldValidation.textFieldValidation(driver,lps.username_txt_field,testClassName,testMethodName).sendKeys(ExcelUtility.readTestdata(testdataSheet, testClassName, 1, 0));
         log.info("Clearing passsword field ");
@@ -212,9 +187,7 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void Loginpage_TC_009()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-        log.info("Clearing username field ");
+	    log.info("Clearing username field ");
         FieldValidation.textFieldValidation(driver,lps.username_txt_field,testClassName,testMethodName).clear();
         log.info("Entering invalid username ");
         FieldValidation.textFieldValidation(driver,lps.username_txt_field,testClassName,testMethodName).sendKeys("Invalid_username");
@@ -235,9 +208,7 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"smoke"})
 	public static void loginpage_TC_010()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-        log.info("Clicking on remember me checkbox");
+	    log.info("Clicking on remember me checkbox");
         FieldValidation.textFieldValidation(driver,lps.rememnber_me_checkbox,testClassName,testMethodName).click();
         log.info("Validating if checkbox is selected");
         Assert.assertTrue(lps.rememnber_me_checkbox.isSelected());
@@ -247,10 +218,7 @@ public class LoginPageUC extends TestBaseClass{
 	@Test(enabled=true,groups = {"functional"})
 	public static void Loginpage_TC_011()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-
-        System.out.println("akash1: "+testClassName);
+	    System.out.println("akash1: "+testClassName);
         System.out.println("akash2: "+testMethodName);
         log.info("Clearing username text field");
         FieldValidation.textFieldValidation(driver,lps.username_txt_field,testClassName,testMethodName).clear();

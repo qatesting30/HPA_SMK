@@ -52,8 +52,6 @@ public class ProfilePageUC extends TestBaseClass {
         pgs = new ProfilePageObjects(driver);
         lps = new LoginPageObjects(driver);
         hps = new HealthTrackerPageObjects(driver);
-        testDataInit();
-        testdataSheet = testdataExcel;
         SwitchView.changeContext(driver, "WEBVIEW");
     }
     //profile-tab

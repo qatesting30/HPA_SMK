@@ -27,7 +27,7 @@ public class FieldValidation {
 
     public static WebElement textFieldValidation(RemoteWebDriver driver, WebElement element, String testClassName, String testcaseName) {
         int success = 0;
-        testcase = TestBaseClass.testcaseExcel;
+        testcase = TestBaseClass.testdataSheet;
         //System.out.println("testcase: "+testcase);
         wait = new WebDriverWait(driver, 30);
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
@@ -106,7 +106,7 @@ public class FieldValidation {
     public static WebElement contentValidation(RemoteWebDriver driver, WebElement element, String testClassName, String testcaseName) {
 
         int success = 0;
-        testcase = TestBaseClass.testcaseExcel;
+        testcase = TestBaseClass.testdataSheet;
         //System.out.println("testcase: "+testcase);
         wait = new WebDriverWait(driver, 30);
 

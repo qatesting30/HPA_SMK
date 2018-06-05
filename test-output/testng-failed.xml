@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [HealthEC PHR PRO Suite]">
-  <listeners>
-    <listener class-name="com.healthec.generic.TestBaseClass"/>
-    <listener class-name="com.healthec.generic.Priority"/>
-  </listeners>
   <test name="LoginPageTest(failed)">
     <groups>
       <run>
@@ -25,7 +21,6 @@
         <methods>
           <include name="beforeDashboardPageClass"/>
           <include name="beforeDashboardPageTest"/>
-          <include name="getInfo"/>
           <include name="dashBoardPageTC_003"/>
           <include name="getResult"/>
         </methods>
