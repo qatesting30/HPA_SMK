@@ -4,14 +4,15 @@
 
     <listeners>
         <listener class-name="com.healthec.generic.TestBaseClass"></listener>
-        <listener class-name="com.healthec.generic.Priority"></listener>
+        <!--<listener class-name="com.healthec.generic.Priority"></listener>-->
+
     </listeners>
 
     <test name="LoginPageTest" preserve-order="true">
 
         <groups>
             <run>
-                <include name="functional"/>
+                <include name="smoke"/>
             </run>
         </groups>
 
@@ -20,9 +21,11 @@
 
             <class name="com.healthec.generic.TestBaseClass"/>
             <class name="com.healthec.test.LoginPageUC"/>
+            <class name="com.healthec.test.DashboardPageUC"/>
+            <!--<class name="com.healthec.test.ProfilePageUC"/>-->
         </classes>
     </test>  
-   <test name="DashboardPageTest">
+  <!-- <test name="DashboardPageTest">
 
 
        <groups>
@@ -36,7 +39,7 @@
       <class name="com.healthec.test.DashboardPageUC"/>
       <class name="com.healthec.generic.TestBaseClass"/>
     </classes>
-  </test>
+  </test>-->
   <!--<test name = "ProfilePageTest">
       <classes>
           <class name="com.healthec.test.functional.ProfilePageUC"/>

@@ -1,4 +1,77 @@
-2018-06-05 19:48:58 INFO  LoginPageUC:223 - Clearing username text field
-    2018-06-05 19:49:00 INFO  LoginPageUC:225 - Entering username
-    2018-06-05 19:49:03 INFO  DashboardPageUC:71 - Clicking on moods button
+2018-06-06 08:06:35 INFO  LoginPageUC:45 - Clicking on contact us link
+    2018-06-06 08:06:44 INFO  LoginPageUC:97 - Clicking on privacy policy link
+    2018-06-06 08:06:49 INFO  LoginPageUC:101 - Waited for 3 seconds
+    2018-06-06 08:06:52 INFO  LoginPageUC:103 - Clicked on device back button
+    2018-06-06 08:06:52 INFO  LoginPageUC:108 - Clicking on terms of us link
+    2018-06-06 08:06:58 INFO  LoginPageUC:112 - Waited for 3 seconds
+    2018-06-06 08:07:00 INFO  LoginPageUC:114 - Clicked on device back button
+    2018-06-06 08:07:01 INFO  LoginPageUC:121 - Clicking on sign up link
+    2018-06-06 08:07:05 INFO  LoginPageUC:125 - Clicking on back button in sign up page
+    2018-06-06 08:07:15 INFO  LoginPageUC:131 - Clicking on forgot password link
+    2018-06-06 08:07:49 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:07:49 INFO  LoginPageUC:142 - Clicking on login button
+    2018-06-06 08:07:51 INFO  LoginPageUC:144 - Validating username related error message
+    2018-06-06 08:07:51 INFO  LoginPageUC:153 - Entering password value
+    2018-06-06 08:07:55 INFO  LoginPageUC:155 - hidekeyboard
+    2018-06-06 08:07:57 INFO  LoginPageUC:159 - Clicking on login button
+    2018-06-06 08:08:03 INFO  LoginPageUC:164 - validating error message
+    2018-06-06 08:08:07 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:08:07 INFO  LoginPageUC:171 - Entering username
+    2018-06-06 08:08:10 INFO  LoginPageUC:173 - Clearing passsword field 
+    2018-06-06 08:08:12 INFO  LoginPageUC:175 - Hidekeyboard
+    2018-06-06 08:08:14 INFO  LoginPageUC:177 - Clicking on login button
+    2018-06-06 08:08:16 INFO  LoginPageUC:179 - validating password error message
+    2018-06-06 08:08:20 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:08:20 INFO  LoginPageUC:186 - Clearing username field 
+    2018-06-06 08:08:22 INFO  LoginPageUC:188 - Entering invalid username 
+    2018-06-06 08:08:24 INFO  LoginPageUC:190 - Entering invalid password
+    2018-06-06 08:08:28 INFO  LoginPageUC:192 - Hidekeyboard
+    2018-06-06 08:08:30 INFO  LoginPageUC:194 - Clicking on login button
+    2018-06-06 08:08:32 INFO  LoginPageUC:196 - Validating invalid credentials displayed
+    2018-06-06 08:08:36 INFO  LoginPageUC:200 - Clicking on ok button of invalid credentials password
+    2018-06-06 08:08:39 INFO  LoginPageUC:220 - Clearing username text field
+    2018-06-06 08:08:41 INFO  LoginPageUC:222 - Entering username
+    2018-06-06 08:08:43 INFO  LoginPageUC:224 - Clearing password text field
+    2018-06-06 08:08:45 INFO  LoginPageUC:226 - Entering password
+    2018-06-06 08:08:47 INFO  LoginPageUC:228 - Hidekeyboard
+    2018-06-06 08:08:50 INFO  LoginPageUC:230 - Clicking on login button
+    2018-06-06 08:08:52 INFO  LoginPageUC:232 - Validating if logged in
+    2018-06-06 08:09:04 INFO  LoginPageUC:235 - Dashboard displayed
+    2018-06-06 08:09:04 INFO  LoginPageUC:207 - Clicking on remember me checkbox
+    2018-06-06 08:09:38 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:09:38 INFO  DashboardPageUC:41 - Clicking on moods button
+    2018-06-06 08:09:42 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:09:42 INFO  DashboardPageUC:52 - Clicking on moods button
+    2018-06-06 08:09:46 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:09:46 INFO  DashboardPageUC:61 - Clicking on moods button
+    2018-06-06 08:09:49 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:09:49 INFO  DashboardPageUC:70 - Clicking on moods button
+    2018-06-06 08:09:53 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:09:53 INFO  DashboardPageUC:79 - Clicking on moods button
+    2018-06-06 08:09:56 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:09:56 INFO  DashboardPageUC:90 - Clicking on calorie box button
+    2018-06-06 08:10:00 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:00 INFO  DashboardPageUC:106 - Validating week range
+    2018-06-06 08:10:00 INFO  DashboardPageUC:125 - Checking records present
+    2018-06-06 08:10:00 INFO  DashboardPageUC:130 - Alerts are present
+    2018-06-06 08:10:00 INFO  DashboardPageUC:137 - Clicking on menu button
+    2018-06-06 08:10:03 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:03 INFO  DashboardPageUC:145 - Clicking on menu button
+    2018-06-06 08:10:06 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:06 INFO  DashboardPageUC:156 - Clicking on menu button
+    2018-06-06 08:10:09 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:10 INFO  DashboardPageUC:178 - Clicking on menu button
+    2018-06-06 08:10:13 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:13 INFO  DashboardPageUC:208 - Clicking on menu button
+    2018-06-06 08:10:16 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:16 INFO  DashboardPageUC:219 - Clicking on menu button
+    2018-06-06 08:10:20 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:20 INFO  DashboardPageUC:229 - Clicking on menu button
+    2018-06-06 08:10:23 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:23 INFO  DashboardPageUC:240 - Clicking on menu button
+    2018-06-06 08:10:26 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:26 INFO  DashboardPageUC:250 - Clicking on privacy policy
+    2018-06-06 08:10:29 INFO  Screenshots:46 - Screenshot taken
+    2018-06-06 08:10:29 INFO  DashboardPageUC:258 - Clicking on terms of use
+    2018-06-06 08:10:32 INFO  Screenshots:46 - Screenshot taken
     

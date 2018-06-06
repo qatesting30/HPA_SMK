@@ -1,30 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [HealthEC PHR PRO Suite]">
+  <listeners>
+    <listener class-name="com.healthec.generic.TestBaseClass"/>
+  </listeners>
   <test name="LoginPageTest(failed)">
     <groups>
       <run>
-        <include name="functional"/>
+        <include name="smoke"/>
       </run>
     </groups>
     <classes>
+      <class name="com.healthec.test.DashboardPageUC">
+        <methods>
+          <include name="dashBoardPageTC_009"/>
+          <include name="dashBoardPageTC_005"/>
+          <include name="dashBoardPageTC_016"/>
+          <include name="dashBoardPageTC_018"/>
+          <include name="dashBoardPageTC_006"/>
+          <include name="dashBoardPageTC_017"/>
+          <include name="dashBoardPageTC_001"/>
+          <include name="dashBoardPageTC_019"/>
+          <include name="getInfo"/>
+          <include name="dashBoardPageTC_003"/>
+          <include name="dashBoardPageTC_002"/>
+          <include name="dashBoardPageTC_013"/>
+          <include name="dashBoardPageTC_004"/>
+          <include name="dashBoardPageTC_015"/>
+          <include name="dashBoardPageTC_010"/>
+          <include name="dashBoardPageTC_020"/>
+          <include name="dashBoardPageTC_011"/>
+          <include name="beforeDashboardPageClass"/>
+          <include name="beforeDashboardPageTest"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.healthec.test.DashboardPageUC -->
       <class name="com.healthec.test.LoginPageUC">
         <methods>
-          <include name="Loginpage_TC_011"/>
           <include name="beforeloginPageTest"/>
+          <include name="Loginpage_TC_007"/>
+          <include name="loginpage_TC_010"/>
           <include name="getInfo"/>
+          <include name="Loginpage_TC_008"/>
+          <include name="Loginpage_TC_005"/>
           <include name="getResult"/>
           <include name="beforeloginPageClass"/>
         </methods>
       </class> <!-- com.healthec.test.LoginPageUC -->
-      <class name="com.healthec.test.DashboardPageUC">
-        <methods>
-          <include name="beforeDashboardPageClass"/>
-          <include name="beforeDashboardPageTest"/>
-          <include name="dashBoardPageTC_003"/>
-          <include name="getResult"/>
-        </methods>
-      </class> <!-- com.healthec.test.DashboardPageUC -->
     </classes>
   </test> <!-- LoginPageTest(failed) -->
 </suite> <!-- Failed suite [HealthEC PHR PRO Suite] -->

@@ -9,6 +9,12 @@ public class TestClass {
 
     }
 
+    @BeforeMethod
+    public void beforemethod() {
+
+
+    }
+
     @Test
     public static void TestClass() {
 

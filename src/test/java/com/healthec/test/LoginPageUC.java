@@ -5,6 +5,7 @@ import com.healthec.UI.HideKeyBoard;
 import com.healthec.UI.SwitchView;
 import com.healthec.generic.ExcelUtility;
 import com.healthec.generic.FieldValidation;
+import com.healthec.generic.TestBaseClass;
 import com.healthec.objectRepo.LoginPageObjects;
 import com.healthec.projectSpec.CreateDriver;
 import org.apache.log4j.Logger;
@@ -14,13 +15,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.ITestContext;
 import org.testng.annotations.*;
-import static com.healthec.generic.TestBaseClass.testClassName;
-import static com.healthec.generic.TestBaseClass.testMethodName;
-import static com.healthec.generic.TestBaseClass.testdataSheet;
 import java.util.concurrent.TimeUnit;
 
 
-public class LoginPageUC {
+public class LoginPageUC extends TestBaseClass{
 
 	public static RemoteWebDriver driver;
 	public static WebDriverWait wait;
@@ -146,27 +144,25 @@ public class LoginPageUC {
         log.info("Validating username related error message");
 		//System.out.println("text is: "+lps.login_error_msg.getAttribute("name"));
 		//System.out.println("text is: "+lps.login_error_msg.getText());
-		Assert.assertEquals(lps.login_error_msg.getText(), "User Name and Password are required");
+		Assert.assertEquals(lps.login_error_msg.getText(), lps.login_error_message);
 
 	}
 	//Username field is blank
 	@Test(enabled=true,groups = {"smoke"})
-	public static void Loginpage_TC_007()
-	{
+	public static void Loginpage_TC_007() throws Exception {
         log.info("Entering password value");
-        FieldValidation.textFieldValidation(driver,lps.login_btn,testClassName,testMethodName).click();
-        log.info("Validating password related error message");
         FieldValidation.textFieldValidation(driver,lps.password_txt_field,testClassName,testMethodName).sendKeys(ExcelUtility.readTestdata(testdataSheet, testClassName, 1, 1));
         log.info("hidekeyboard");
         HideKeyBoard.hideKeyBoard(driver);
         /*  TouchActions act = new TouchActions(driver);
 	    act.doubleClick(lp.login_Btn()).build().perform();*/
         log.info("Clicking on login button");
+        Thread.sleep(2000);
         FieldValidation.textFieldValidation(driver,lps.login_btn,testClassName,testMethodName).click();
 		/*log.info("Clicked on login button");
 		wait.until(ExpectedConditions.elementToBeClickable(lps.login_btn)).click();*/
 		log.info("validating error message");
-		Assert.assertEquals(lps.login_error_msg.getText(), "User Name Required");
+		Assert.assertEquals(lps.login_error_msg.getText(), lps.username_required_error_msg);
 	}
 	//password field is blank
 	@Test(enabled=true,groups = {"smoke"})
@@ -175,13 +171,13 @@ public class LoginPageUC {
         log.info("Entering username");
         FieldValidation.textFieldValidation(driver,lps.username_txt_field,testClassName,testMethodName).sendKeys(ExcelUtility.readTestdata(testdataSheet, testClassName, 1, 0));
         log.info("Clearing passsword field ");
-        FieldValidation.textFieldValidation(driver,lps.username_txt_field,testClassName,testMethodName).clear();
+        FieldValidation.textFieldValidation(driver,lps.password_txt_field,testClassName,testMethodName).clear();
 		log.info("Hidekeyboard");
 		HideKeyBoard.hideKeyBoard(driver);
 		log.info("Clicking on login button");
         FieldValidation.textFieldValidation(driver,lps.login_btn,testClassName,testMethodName).click();
         log.info("validating password error message");
-		Assert.assertEquals(lps.password_error_msg.getText(), "Password Required");
+		Assert.assertEquals(lps.password_error_msg.getText(), lps.password_required_error_msg);
 	}
 	//username/password is invalid
 	@Test(enabled=true,groups = {"smoke"})
@@ -215,11 +211,12 @@ public class LoginPageUC {
 	}
 
 	//password is invalid
-	@Test(enabled=true,groups = {"functional"})
+	@Test(enabled=true,groups = {"smoke","functional"})
 	public static void Loginpage_TC_011()
 	{
 	    System.out.println("akash1: "+testClassName);
         System.out.println("akash2: "+testMethodName);
+		//System.out.println("testdatasheet value: "+testdataSheet);
         log.info("Clearing username text field");
         FieldValidation.textFieldValidation(driver,lps.username_txt_field,testClassName,testMethodName).clear();
         log.info("Entering username");

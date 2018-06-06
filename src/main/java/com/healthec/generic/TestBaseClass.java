@@ -5,7 +5,6 @@ import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.ITestAnnotation;
 
 import java.lang.reflect.Constructor;
@@ -32,10 +31,11 @@ public class TestBaseClass  implements IAnnotationTransformer{
 
     public void transform(ITestAnnotation annotation, Class testClass, Constructor testConstructor, Method testMethod) {
         testcaseInit();
+        testDataInit();
         className = testMethod.getDeclaringClass().getSimpleName();
-        System.out.println("1: "+className);
+        //System.out.println("1: "+className);
         String testcaseName = testMethod.getName();
-        System.out.println("2: "+testcaseName);
+       // System.out.println("2: "+testcaseName);
 
         try {
             if(ExcelUtility.getTestRunFlag(testCaseSheet, className, testcaseName, "Execution", "N")){
@@ -53,10 +53,11 @@ public class TestBaseClass  implements IAnnotationTransformer{
     @BeforeMethod(alwaysRun = true)
     public static void getInfo(ITestContext context,Method method)
     {
-        testClassName = context.getAllTestMethods()[0].getInstance().getClass().getSimpleName();
-        System.out.println("class name in before method: "+className);
+        //testClassName = context.getAllTestMethods()[0].getInstance().getClass().getSimpleName();
+        testClassName = method.getDeclaringClass().getSimpleName();
+        System.out.println("class name in before method: "+testClassName);
         testMethodName =method.getName();
-        System.out.println("TestCase Name in before Method "+method.getName());
+        System.out.println("TestCase Name in before Method "+testMethodName);
     }
     @AfterMethod(alwaysRun = true)
     public static void getResult(ITestResult result) throws Exception

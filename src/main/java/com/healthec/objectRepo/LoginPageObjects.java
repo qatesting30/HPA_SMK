@@ -16,6 +16,18 @@ public class LoginPageObjects {
         PageFactory.initElements(new AppiumFieldDecorator(driver), this);
     }
 
+
+    public String login_error_message = "User Name and Password are required";
+    public String username_required_error_msg = "User Name Required";
+    public String password_required_error_msg = "Password Required";
+
+
+
+
+
+
+
+
     //SignUp
     @FindBy(id= "backButton")
     public WebElement signUp_bck_btn;

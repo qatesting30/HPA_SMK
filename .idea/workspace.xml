@@ -2,30 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="bc66b739-09d7-498a-bea3-a60317b930d4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_05-06-2018_19-11-51.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_05-06-2018_19-13-04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/DashboardPageTest.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_07-32-56.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_07-48-07.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_07-59-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_08-07-45.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_07-33-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_07-48-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_07-59-31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_08-08-04.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_07-33-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_07-48-43.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_07-59-44.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_08-08-17.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-10-40.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-13-59.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-16-49.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-21-47.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-22-53.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-25-52.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-40-36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_07-33-41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_07-50-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_08-01-06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_08-09-38.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_07-33-45.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_07-50-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_08-01-08.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_08-09-42.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_07-19-33.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_07-33-48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_08-01-11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_08-09-46.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_004_06-06-2018_07-33-51.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_004_06-06-2018_08-01-15.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_004_06-06-2018_08-09-49.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_005_06-06-2018_07-33-55.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_005_06-06-2018_08-01-18.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_005_06-06-2018_08-09-53.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_006_06-06-2018_07-33-58.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_006_06-06-2018_08-01-21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_006_06-06-2018_08-09-57.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_009_06-06-2018_07-34-01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_009_06-06-2018_08-01-24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_009_06-06-2018_08-10-00.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_010_06-06-2018_08-01-27.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_010_06-06-2018_08-10-03.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_011_06-06-2018_08-01-30.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_011_06-06-2018_08-10-06.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_013_06-06-2018_08-01-33.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_013_06-06-2018_08-10-10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_015_06-06-2018_08-01-36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_015_06-06-2018_08-10-13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_016_06-06-2018_08-01-39.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_016_06-06-2018_08-10-16.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_017_06-06-2018_08-01-43.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_017_06-06-2018_08-10-20.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_018_06-06-2018_08-01-46.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_018_06-06-2018_08-10-23.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_019_06-06-2018_08-01-49.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_019_06-06-2018_08-10-26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_020_06-06-2018_08-01-52.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_020_06-06-2018_08-10-29.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/loginpage_TC_010_06-06-2018_07-50-19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/loginpage_TC_010_06-06-2018_08-01-02.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/loginpage_TC_010_06-06-2018_08-09-35.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.healthec.test.ProfilePageUC.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HPA_SMK.iml" afterPath="$PROJECT_DIR$/HPA_SMK.iml" />
+      <change beforePath="$PROJECT_DIR$/appConfig/configAOS.properties" afterPath="$PROJECT_DIR$/appConfig/configAOS.properties" />
       <change beforePath="$PROJECT_DIR$/dataArchive/TestCases.xlsx" afterPath="$PROJECT_DIR$/dataArchive/TestCases.xlsx" />
       <change beforePath="$PROJECT_DIR$/dataArchive/testData.xlsx" afterPath="$PROJECT_DIR$/dataArchive/testData.xlsx" />
       <change beforePath="$PROJECT_DIR$/log4j/appium.logs" afterPath="$PROJECT_DIR$/log4j/appium.logs" />
+      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.1" afterPath="$PROJECT_DIR$/log4j/appium.logs.1" />
+      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.2" afterPath="$PROJECT_DIR$/log4j/appium.logs.2" />
+      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.3" afterPath="$PROJECT_DIR$/log4j/appium.logs.3" />
+      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.4" afterPath="$PROJECT_DIR$/log4j/appium.logs.4" />
+      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.5" afterPath="$PROJECT_DIR$/log4j/appium.logs.5" />
       <change beforePath="$PROJECT_DIR$/log4j/manual.logs" afterPath="$PROJECT_DIR$/log4j/manual.logs" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/healthec/UI/PhoneNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/healthec/UI/PhoneNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/healthec/generic/FieldValidation.java" afterPath="$PROJECT_DIR$/src/main/java/com/healthec/generic/FieldValidation.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java" afterPath="$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" afterPath="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java" afterPath="$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/healthec/test/ProfilePageUC.java" afterPath="$PROJECT_DIR$/src/test/java/com/healthec/test/ProfilePageUC.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/healthec/UI/PhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/com/healthec/UI/PhoneNumber.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/healthec/generic/FieldValidation.class" afterPath="$PROJECT_DIR$/target/classes/com/healthec/generic/FieldValidation.class" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java" afterPath="$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/healthec/generic/TestBaseClass.class" afterPath="$PROJECT_DIR$/target/classes/com/healthec/generic/TestBaseClass.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/healthec/objectRepo/LoginPageObjects.class" afterPath="$PROJECT_DIR$/target/classes/com/healthec/objectRepo/LoginPageObjects.class" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/healthec/test/DashboardPageUC.class" afterPath="$PROJECT_DIR$/target/test-classes/com/healthec/test/DashboardPageUC.class" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/healthec/test/LoginPageUC.class" afterPath="$PROJECT_DIR$/target/test-classes/com/healthec/test/LoginPageUC.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/healthec/test/ProfilePageUC.class" afterPath="$PROJECT_DIR$/target/test-classes/com/healthec/test/ProfilePageUC.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/healthec/test/TestClass.class" afterPath="$PROJECT_DIR$/target/test-classes/com/healthec/test/TestClass.class" />
+      <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.html" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.html" />
+      <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.xml" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.xml" />
       <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.html" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.html" />
       <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.xml" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.xml" />
       <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/testng-failed.xml" />
@@ -57,38 +121,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginPageUC.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginPageUC.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+            <state relative-caret-position="184">
+              <caret line="173" column="73" lean-forward="false" selection-start-line="173" selection-start-column="73" selection-end-line="173" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#12583#12584#0" expanded="true" />
-                <element signature="e#12612#12613#0" expanded="true" />
+                <element signature="e#12411#12412#0" expanded="true" />
+                <element signature="e#12440#12441#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestBaseClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginPageObjects.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestBaseClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="71">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -96,8 +160,8 @@
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="102">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -106,8 +170,8 @@
       <file leaf-file-name="DashboardPageUC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="187">
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -131,7 +195,7 @@
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$USER_HOME$/IdeaProjects/codingRound" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../codingRound" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../java.appium-master" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../rest.api.test-master" value="PREVIEW" />
       </map>
@@ -149,7 +213,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/UI/Swipe.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/Screenshots.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/LaunchAppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/AppiumStartServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/AppiumStopServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/ExcelUtility.java" />
@@ -158,13 +221,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/UI/SwitchView.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/ExcelData.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/UI/PhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/FieldValidation.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/ProfilePageUC.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java" />
+        <option value="$PROJECT_DIR$/appConfig/configAOS.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java" />
       </list>
     </option>
   </component>
@@ -186,11 +252,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="22" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,6 +283,11 @@
             <path>
               <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
               <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
+              <item name="appConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
               <item name="dataArchive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,30 +305,15 @@
               <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
               <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
               <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="healthec" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -266,19 +321,30 @@
               <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="healthec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HPA_SMK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HPA_SMK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,39 +729,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 18h 05m 45s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 06h 34m 53s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 18h 09m 59s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 06h 37m 06s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 18h 19m 34s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 06h 40m 40s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 18h 27m 18s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 06h 57m 14s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 19h 11m 58s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 07h 18m 08s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 19h 13m 20s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 07h 19m 37s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 19h 19m 21s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 07h 34m 05s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 19h 37m 09s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 07h 50m 40s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 19h 39m 01s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 08h 01m 56s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.05 at 19h 49m 07s.xml">
+    <history-entry file="D__Android_framework_backup_HPA_SMK_testng_xml - 2018.06.06 at 08h 10m 33s.xml">
       <configuration name="D:/Android/framework_backup/HPA_SMK/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -705,18 +771,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5028612" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32792208" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871014" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39772728" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -762,23 +828,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#12583#12584#0" expanded="true" />
-            <element signature="e#12612#12613#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/ExcelData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -826,8 +880,8 @@
           <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#12583#12584#0" expanded="true" />
-            <element signature="e#12612#12613#0" expanded="true" />
+            <element signature="e#12411#12412#0" expanded="true" />
+            <element signature="e#12440#12441#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -846,9 +900,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="90" column="16" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -924,13 +976,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/DashboardPageObjects.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -987,13 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appConfig/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1012,13 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1064,98 +1095,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="464" column="59" lean-forward="false" selection-start-line="464" selection-start-column="59" selection-end-line="464" selection-end-column="59" />
-          <folding>
-            <marker date="1525445022889" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1525445022889" expanded="false" signature="143:2057" ph="..." />
-            <marker date="1525445022889" expanded="true" signature="3164:3534" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="3613:3879" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="4068:4538" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="4681:4799" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="4981:8322" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="8482:8670" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="8735:9179" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="9358:10023" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="10100:11062" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="11229:13012" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="13074:13544" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="13653:15616" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="15702:15838" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="16006:17787" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="17866:17977" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="18095:18522" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="18565:18671" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="18933:28807" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="28875:28965" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="29022:29690" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="29742:30239" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="30305:30390" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="30454:30947" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="31060:31769" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="32037:32233" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="32408:33226" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="33400:35188" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="35269:35484" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="35771:36379" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="36550:36855" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="37029:47569" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="47681:47953" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="48081:48256" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="48473:49202" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="49370:49878" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="50017:51991" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="52052:52163" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="52290:52527" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="52708:54019" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="54100:55631" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="55723:56337" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="56425:57298" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="57397:57758" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="57884:58543" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="58602:58712" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="58789:59924" ph="{...}" />
-            <marker date="1525445022889" expanded="false" signature="59969:59980" ph=" { " />
-            <marker date="1525445022889" expanded="false" signature="60039:60045" ph=" }" />
-            <marker date="1525445022889" expanded="true" signature="60131:61052" ph="{...}" />
-            <marker date="1525445022889" expanded="false" signature="61097:61108" ph=" { " />
-            <marker date="1525445022889" expanded="false" signature="61178:61184" ph=" }" />
-            <marker date="1525445022889" expanded="true" signature="61224:61688" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="61363:61452" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="61500:61589" ph="{...}" />
-            <marker date="1525445022889" expanded="false" signature="61625:61640" ph=" { " />
-            <marker date="1525445022889" expanded="false" signature="61672:61682" ph=" }" />
-            <marker date="1525445022889" expanded="true" signature="61782:61999" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="61817:61828" ph="{}" />
-            <marker date="1525445022889" expanded="true" signature="61893:61993" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="62095:62272" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="62132:62143" ph="{}" />
-            <marker date="1525445022889" expanded="false" signature="62207:62222" ph=" { " />
-            <marker date="1525445022889" expanded="false" signature="62256:62266" ph=" }" />
-            <marker date="1525445022889" expanded="true" signature="62304:62351" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="62385:62508" ph="{...}" />
-            <marker date="1525445022889" expanded="true" signature="62491:62502" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/ExcelData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="73" column="78" lean-forward="false" selection-start-line="73" selection-start-column="78" selection-end-line="73" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/ExcelUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/ClassHelper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1165,7 +1104,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="510">
           <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
           <folding />
         </state>
@@ -1179,58 +1118,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/appConfig/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appConfig/configAOS.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/FieldValidation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        <state relative-caret-position="1343">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="498" column="0" lean-forward="false" selection-start-line="498" selection-start-column="0" selection-end-line="498" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/ExcelUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/ExcelData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/ProfilePageUC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        <state relative-caret-position="220">
+          <caret line="59" column="23" lean-forward="false" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="187">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="184">
+          <caret line="173" column="73" lean-forward="false" selection-start-line="173" selection-start-column="73" selection-end-line="173" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#12583#12584#0" expanded="true" />
-            <element signature="e#12612#12613#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#12411#12412#0" expanded="true" />
+            <element signature="e#12440#12441#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -12,10 +12,6 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 import static com.healthec.test.LoginPageUC.driver;
-import static com.healthec.generic.TestBaseClass.testClassName;
-import static com.healthec.generic.TestBaseClass.testMethodName;
-import static com.healthec.generic.TestBaseClass.testCaseSheet;
-import static com.healthec.generic.TestBaseClass.testdataSheet;
 
 public class DashboardPageUC extends TestBaseClass {
 	
@@ -40,10 +36,8 @@ public class DashboardPageUC extends TestBaseClass {
 	}
 	//mood validation
 	@Test(enabled=true,groups = {"smoke"})
-	public static void dashBoardPageTC_001() throws Exception
+	public static void dashBoardPageTC_001()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on moods button");
 		FieldValidation.textFieldValidation(driver,dps.moods,testClassName,testMethodName).click();
         log.info("Clicking on 1st mood button");
@@ -53,43 +47,35 @@ public class DashboardPageUC extends TestBaseClass {
 	}
 		 
     @Test(enabled=true,groups = {"smoke"})
-	public static void dashBoardPageTC_002() throws Exception
+	public static void dashBoardPageTC_002()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on moods button");
         FieldValidation.textFieldValidation(driver,dps.moods,testClassName,testMethodName).click();
         log.info("Clicking on 2nd mood button");
         FieldValidation.textFieldValidation(driver,dps.mood2,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true,groups = {"smoke","functional"})
-	public static void dashBoardPageTC_003() throws Exception
+	@Test(enabled=true,groups = {"smoke"})
+	public static void dashBoardPageTC_003()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on moods button");
         FieldValidation.textFieldValidation(driver,dps.moods,testClassName,testMethodName).click();
         log.info("Clicking on 3rd mood button");
         FieldValidation.textFieldValidation(driver,dps.mood3,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true)
-	public static void dashBoardPageTC_004() throws Exception
+	@Test(enabled=true,groups = {"smoke"})
+	public static void dashBoardPageTC_004()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on moods button");
         FieldValidation.textFieldValidation(driver,dps.moods,testClassName,testMethodName).click();
         log.info("Clicking on 4th mood button");
         FieldValidation.textFieldValidation(driver,dps.mood4,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true)
-	public static void dashBoardPageTC_005() throws Exception
+	@Test(enabled=true,groups = {"smoke"})
+	public static void dashBoardPageTC_005()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on moods button");
         FieldValidation.textFieldValidation(driver,dps.moods,testClassName,testMethodName).click();
         log.info("Clicking on 5th mood button");
@@ -98,11 +84,9 @@ public class DashboardPageUC extends TestBaseClass {
 	}
 	//dasboard box validation
 	  //calorie-box validation
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_006()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on calorie box button");
         FieldValidation.textFieldValidation(driver,dps.calorie_box,testClassName,testMethodName).click();
         log.info("Clicking on back button");
@@ -116,11 +100,9 @@ public class DashboardPageUC extends TestBaseClass {
         log.info("Clicking on back button");
         FieldValidation.textFieldValidation(driver,dps.back_btn,testClassName,testMethodName).click();
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_007()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Validating week range");
 		String start_date =null;
 		String end_date =null;
@@ -136,7 +118,7 @@ public class DashboardPageUC extends TestBaseClass {
         }
 	
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_008()
 	{
 		try{
@@ -149,21 +131,17 @@ public class DashboardPageUC extends TestBaseClass {
 		    System.out.println("alert(s) displaying");
 		}
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_009()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on home tab button");
         FieldValidation.textFieldValidation(driver,dps.home_tab,testClassName,testMethodName).click();
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_010()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on profile tab");
@@ -172,11 +150,9 @@ public class DashboardPageUC extends TestBaseClass {
         FieldValidation.textFieldValidation(driver,dps.back_btn,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_011()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on health tracker tab");
@@ -185,11 +161,9 @@ public class DashboardPageUC extends TestBaseClass {
         FieldValidation.textFieldValidation(driver,dps.back_btn,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true,groups ={"smokeTest","functionality"})
+	@Test(enabled=true,groups ={"smokeTest"})
 	public static void dashBoardPageTC_012()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on medical care tab");
@@ -198,12 +172,10 @@ public class DashboardPageUC extends TestBaseClass {
         FieldValidation.textFieldValidation(driver,dps.back_btn,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_013()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-        log.info("Clicking on menu button");
+	    log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on alerts tab");
         FieldValidation.textFieldValidation(driver,dps.alerts_tab,testClassName,testMethodName).click();
@@ -211,12 +183,10 @@ public class DashboardPageUC extends TestBaseClass {
         FieldValidation.textFieldValidation(driver,dps.back_btn,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_014()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-        log.info("Clicking on menu button");
+	    log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on health topic tab");
         FieldValidation.textFieldValidation(driver,dps.healthTopic_tab,testClassName,testMethodName).click();
@@ -232,12 +202,10 @@ public class DashboardPageUC extends TestBaseClass {
         HealthTopicBackButton.backBtn(driver);
 
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_015()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-        log.info("Clicking on menu button");
+	    log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on my document button");
         FieldValidation.textFieldValidation(driver,dps.myDocument_tab,testClassName,testMethodName).click();
@@ -245,24 +213,20 @@ public class DashboardPageUC extends TestBaseClass {
         FieldValidation.textFieldValidation(driver,dps.back_btn,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_016()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-        log.info("Clicking on menu button");
+	    log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on settings tab");
         FieldValidation.textFieldValidation(driver,dps.settings_tab,testClassName,testMethodName).click();
 
 		
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
 	public static void dashBoardPageTC_017()
 	{
-        testClassName = className;
-        testMethodName =  methodName;
-        log.info("Clicking on menu button");
+	    log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on help tab");
         FieldValidation.textFieldValidation(driver,dps.help_tab,testClassName,testMethodName).click();
@@ -270,11 +234,9 @@ public class DashboardPageUC extends TestBaseClass {
         FieldValidation.textFieldValidation(driver,dps.back_btn,testClassName,testMethodName).click();
 
 	}
-	@Test(enabled=true)
+	@Test(enabled=true,groups = {"smoke"})
     public static void dashBoardPageTC_018()
     {
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on menu button");
         FieldValidation.textFieldValidation(driver,dps.menu_btn,testClassName,testMethodName).click();
         log.info("Clicking on contact us tab");
@@ -282,21 +244,17 @@ public class DashboardPageUC extends TestBaseClass {
         log.info("Clicking on back button");
         BackButton.backButon(driver);
     }
-    @Test(enabled=true)
+    @Test(enabled=true,groups = {"smoke"})
     public static void dashBoardPageTC_019()
     {
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on privacy policy");
         FieldValidation.textFieldValidation(driver,dps.privacy_policy_tab,testClassName,testMethodName).click();
         log.info("Clicking on back button");
     	BackButton.backButon(driver);
     }
-    @Test(enabled=true)
+    @Test(enabled=true,groups = {"smoke"})
     public static void dashBoardPageTC_020()
     {
-        testClassName = className;
-        testMethodName =  methodName;
         log.info("Clicking on terms of use");
         FieldValidation.textFieldValidation(driver,dps.terms_of_use_tab,testClassName,testMethodName).click();
         log.info("Clicking on back button");
