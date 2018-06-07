@@ -2,113 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="bc66b739-09d7-498a-bea3-a60317b930d4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_07-32-56.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_07-48-07.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_07-59-13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_005_06-06-2018_08-07-45.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_07-33-10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_07-48-27.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_07-59-31.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_007_06-06-2018_08-08-04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_07-33-21.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_07-48-43.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_07-59-44.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_008_06-06-2018_08-08-17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-10-40.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-13-59.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-16-49.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-21-47.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-22-53.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-25-52.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/Loginpage_TC_011_06-06-2018_06-40-36.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_07-33-41.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_07-50-26.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_08-01-06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_001_06-06-2018_08-09-38.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_07-33-45.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_07-50-30.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_08-01-08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_002_06-06-2018_08-09-42.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_07-19-33.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_07-33-48.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_08-01-11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_003_06-06-2018_08-09-46.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_004_06-06-2018_07-33-51.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_004_06-06-2018_08-01-15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_004_06-06-2018_08-09-49.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_005_06-06-2018_07-33-55.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_005_06-06-2018_08-01-18.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_005_06-06-2018_08-09-53.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_006_06-06-2018_07-33-58.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_006_06-06-2018_08-01-21.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_006_06-06-2018_08-09-57.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_009_06-06-2018_07-34-01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_009_06-06-2018_08-01-24.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_009_06-06-2018_08-10-00.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_010_06-06-2018_08-01-27.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_010_06-06-2018_08-10-03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_011_06-06-2018_08-01-30.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_011_06-06-2018_08-10-06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_013_06-06-2018_08-01-33.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_013_06-06-2018_08-10-10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_015_06-06-2018_08-01-36.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_015_06-06-2018_08-10-13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_016_06-06-2018_08-01-39.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_016_06-06-2018_08-10-16.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_017_06-06-2018_08-01-43.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_017_06-06-2018_08-10-20.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_018_06-06-2018_08-01-46.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_018_06-06-2018_08-10-23.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_019_06-06-2018_08-01-49.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_019_06-06-2018_08-10-26.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_020_06-06-2018_08-01-52.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/dashBoardPageTC_020_06-06-2018_08-10-29.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/loginpage_TC_010_06-06-2018_07-50-19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/loginpage_TC_010_06-06-2018_08-01-02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/screenshots/loginpage_TC_010_06-06-2018_08-09-35.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.healthec.test.ProfilePageUC.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/appConfig/configAOS.properties" afterPath="$PROJECT_DIR$/appConfig/configAOS.properties" />
-      <change beforePath="$PROJECT_DIR$/dataArchive/TestCases.xlsx" afterPath="$PROJECT_DIR$/dataArchive/TestCases.xlsx" />
-      <change beforePath="$PROJECT_DIR$/dataArchive/testData.xlsx" afterPath="$PROJECT_DIR$/dataArchive/testData.xlsx" />
-      <change beforePath="$PROJECT_DIR$/log4j/appium.logs" afterPath="$PROJECT_DIR$/log4j/appium.logs" />
-      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.1" afterPath="$PROJECT_DIR$/log4j/appium.logs.1" />
-      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.2" afterPath="$PROJECT_DIR$/log4j/appium.logs.2" />
-      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.3" afterPath="$PROJECT_DIR$/log4j/appium.logs.3" />
-      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.4" afterPath="$PROJECT_DIR$/log4j/appium.logs.4" />
-      <change beforePath="$PROJECT_DIR$/log4j/appium.logs.5" afterPath="$PROJECT_DIR$/log4j/appium.logs.5" />
-      <change beforePath="$PROJECT_DIR$/log4j/manual.logs" afterPath="$PROJECT_DIR$/log4j/manual.logs" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java" afterPath="$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" afterPath="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java" afterPath="$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java" afterPath="$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/healthec/generic/TestBaseClass.class" afterPath="$PROJECT_DIR$/target/classes/com/healthec/generic/TestBaseClass.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/healthec/objectRepo/LoginPageObjects.class" afterPath="$PROJECT_DIR$/target/classes/com/healthec/objectRepo/LoginPageObjects.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/healthec/test/DashboardPageUC.class" afterPath="$PROJECT_DIR$/target/test-classes/com/healthec/test/DashboardPageUC.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/healthec/test/LoginPageUC.class" afterPath="$PROJECT_DIR$/target/test-classes/com/healthec/test/LoginPageUC.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/healthec/test/TestClass.class" afterPath="$PROJECT_DIR$/target/test-classes/com/healthec/test/TestClass.class" />
-      <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.html" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.xml" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/DashboardPageTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.html" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.xml" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/LoginPageTest.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/HealthEC PHR PRO Suite/testng-failed.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.healthec.test.DashboardPageUC.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.healthec.test.DashboardPageUC.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.healthec.test.LoginPageUC.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.healthec.test.LoginPageUC.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/LoginPageTest.properties" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/LoginPageTest.properties" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/classes.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/groups.html" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/groups.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/methods-alphabetical.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/methods-not-run.html" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/methods-not-run.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/methods.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/testng.xml.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/toc.html" afterPath="$PROJECT_DIR$/test-output/old/HealthEC PHR PRO Suite/toc.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" afterPath="$PROJECT_DIR$/test-output/old/index.html" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -121,10 +16,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginPageUC.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginPageUC.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="1906">
               <caret line="173" column="73" lean-forward="false" selection-start-line="173" selection-start-column="73" selection-end-line="173" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -138,7 +33,7 @@
       <file leaf-file-name="LoginPageObjects.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
+            <state relative-caret-position="272">
               <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
               <folding />
             </state>
@@ -148,7 +43,7 @@
       <file leaf-file-name="TestBaseClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
+            <state relative-caret-position="680">
               <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -167,11 +62,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DashboardPageUC.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DashboardPageUC.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="417">
+              <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardPageObjects.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/DashboardPageObjects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -227,10 +132,10 @@
         <option value="$PROJECT_DIR$/appConfig/configAOS.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/TestClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java" />
       </list>
     </option>
   </component>
@@ -273,6 +178,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -341,10 +249,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -726,6 +631,14 @@
       <option name="presentableId" value="Default" />
       <updated>1527751689318</updated>
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1528253818910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528253818910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -765,13 +678,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5028612" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32792208" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -787,6 +699,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -824,7 +737,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sads" />
-    <option name="LAST_COMMIT_MESSAGE" value="sads" />
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -900,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="90" column="16" lean-forward="false" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -973,13 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/DashboardPageObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1114,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1144,7 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="498" column="0" lean-forward="false" selection-start-line="498" selection-start-column="0" selection-end-line="498" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,7 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,25 +1078,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/generic/TestBaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="680">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,7 +1101,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/LoginPageObjects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="272">
           <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding />
         </state>
@@ -1216,13 +1109,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/LoginPageUC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="1906">
           <caret line="173" column="73" lean-forward="false" selection-start-line="173" selection-start-column="73" selection-end-line="173" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#12411#12412#0" expanded="true" />
             <element signature="e#12440#12441#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/healthec/objectRepo/DashboardPageObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/healthec/test/DashboardPageUC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>

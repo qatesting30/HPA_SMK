@@ -39,6 +39,7 @@ public class DashboardPageUC extends TestBaseClass {
 	public static void dashBoardPageTC_001()
 	{
         log.info("Clicking on moods button");
+        System.out.println("Hii");
 		FieldValidation.textFieldValidation(driver,dps.moods,testClassName,testMethodName).click();
         log.info("Clicking on 1st mood button");
 		FieldValidation.textFieldValidation(driver,dps.mood1,testClassName,testMethodName).click();
